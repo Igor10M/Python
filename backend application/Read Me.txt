@@ -1,0 +1,2 @@
+this project is implement an entire backend application by
+creating an API using Flask framework and MongoDB.
